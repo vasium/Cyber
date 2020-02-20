@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: d073a44be112e4ce99bc04444f3e0bb2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: decals
+    100004: panel_decals
+    100006: Tower.046
+    400000: //RootNode
+    400002: decals
+    400004: panel_decals
+    400006: Tower.046
+    2100000: MAT_Tech9_Panels
+    2100002: MAT_Tram_Tunnels
+    2100004: MAT_Scifi_Currogated
+    2100006: RawMetal
+    2100008: DirtyWindow
+    2100010: MAT_Terran_Floor
+    2100012: MAT_Bolted_Square_Plates
+    2100014: MAT_Tram_Station_Roof
+    2100016: MAT_Scifi_Wall_Pipes
+    2100018: MAT_Flag
+    2100020: MAT_Tech_PipeTrim_01
+    2100022: MAT_Tram_Track
+    2100024: panel_decals
+    2100026: decals
+    2300000: decals
+    2300002: panel_decals
+    2300004: Tower.046
+    3300000: decals
+    3300002: panel_decals
+    3300004: Tower.046
+    4300000: Tower.046
+    4300002: panel_decals
+    4300004: decals
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DirtyWindow
+    second: {fileID: 2100000, guid: 7ae8eaf054caf41018687910050815a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Bolted_Square_Plates
+    second: {fileID: 2100000, guid: 9eaa01ad6a7b443439093324bb738104, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Flag
+    second: {fileID: 2100000, guid: 4f61b6ed0a9d141b0b7f50b53c1f74af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Scifi_Currogated
+    second: {fileID: 2100000, guid: ca090d703c1454844b33b56b0aad1186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Scifi_Wall_Pipes
+    second: {fileID: 2100000, guid: d3713a1f7902e476f8bdbbcb97c6ff1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Tech9_Panels
+    second: {fileID: 2100000, guid: 623fdbc39e8944c4fbc4ac7b13917188, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Tech_PipeTrim_01
+    second: {fileID: 2100000, guid: f2d0d23b866434735b0ae7fbb4b7f954, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Terran_Floor
+    second: {fileID: 2100000, guid: 99e2d46857dc249129315fbcc98fbd10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Tram_Station_Roof
+    second: {fileID: 2100000, guid: 2c2a60dede68047b28374cc8a742a38c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Tram_Track
+    second: {fileID: 2100000, guid: 748fc1c9d055743b2b0738b7d35a6929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_Tram_Tunnels
+    second: {fileID: 2100000, guid: 536dc506db95d412d9fab5ac2f5b6283, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RawMetal
+    second: {fileID: 2100000, guid: b1af535c9ee5b4b8b86bc6a93cb937c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: decals
+    second: {fileID: 2100000, guid: ad2836e0a390a4bc9bdfda4f4efa02d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: panel_decals
+    second: {fileID: 2100000, guid: 022e87eb4577e49438d395144b32de20, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
